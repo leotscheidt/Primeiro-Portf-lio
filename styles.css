@@ -1,0 +1,98 @@
+body{
+    margin: 0;
+}
+
+#topmenu {
+    display: flex;
+    background-color: white;
+    margin: 0;
+}
+
+#topmenu li{
+    color:black;
+    text-decoration: none;
+    display: block;
+    padding: 10px;
+}
+
+#topmenu li :first-child{
+    margin-right: auto;
+}
+
+.section1{
+    display:flex;
+    height: 60vh;
+    background-color: lightgray;
+    border-radius: 30px;
+    border-style:groove;
+    border-color: black;
+    box-shadow: 3px 3px 3px black;
+}
+
+.centraliza{
+    margin: auto;
+    text-align: left;
+}
+
+
+.section2{
+    display: flex;
+    background-color: white;
+    width: 200vh;
+}
+
+
+
+.imagemminha{
+    width: 30vw;
+    height: 30vh;
+    padding-left: 4px;
+    border-radius: 50%;
+    border-style:groove;
+    border-color: black;
+}
+
+.Biopark{
+    width: 30vw;
+    height: 30vh;
+    padding-left: 4px;
+    border-radius: 50%;
+    border-style:groove;
+    border-color: black;
+}
+
+
+
+.disciplinas{
+    width: 30vw;
+    height: 30vh;
+    padding-left: 4px;
+    border-radius: 50%;
+    border-style:groove;
+    border-color: black;
+}
+
+.Connect{
+    width: 30vw;
+    height: 30vh;
+    padding-left: 4px;
+    border-radius: 50%;
+    border-style:groove;
+    border-color: black;
+}
+
+li{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#navbar{
+background-color: rgb(59, 122, 161);
+}
+
+h1{
+    font-size: xx-large;
+    font-family: cursive;
+    text-align: center;
+    font-weight: bolder;
+}
+
